@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Sort-o-matic\bin\Debug\netcoreapp3.1\Sort-o-matic.exe
+C:\Users\user\Desktop\Sort-o-matic\bin\Debug\netcoreapp3.1\Sort-o-matic.deps.json
+C:\Users\user\Desktop\Sort-o-matic\bin\Debug\netcoreapp3.1\Sort-o-matic.runtimeconfig.json
+C:\Users\user\Desktop\Sort-o-matic\bin\Debug\netcoreapp3.1\Sort-o-matic.runtimeconfig.dev.json
+C:\Users\user\Desktop\Sort-o-matic\bin\Debug\netcoreapp3.1\Sort-o-matic.dll
+C:\Users\user\Desktop\Sort-o-matic\bin\Debug\netcoreapp3.1\Sort-o-matic.pdb
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.AssemblyInfo.cs
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.dll
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.pdb
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort-o-matic.genruntimeconfig.cache
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\Sort_o_matic.Properties.Resources.resources
+C:\Users\user\Desktop\Sort-o-matic\obj\Debug\netcoreapp3.1\SortVisualizer.Sorting.resources
